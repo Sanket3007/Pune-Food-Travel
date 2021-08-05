@@ -1,2 +1,3 @@
 ### Responsive Website 
-Nice design of a Pune website 🥗 . It contains a header, Home, Food, Tourist Places, Contact Us. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
+This is a mini project describing places to enjoy and explore different places around Pune.
+It also has a fully developed light/dark mode 🌓.
